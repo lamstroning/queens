@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/queens.dir/src/main.c.o CMakeFiles/queens.dir/src/init_and_destroy.c.o CMakeFiles/queens.dir/src/print.c.o -o queens 
